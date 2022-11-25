@@ -1,0 +1,55 @@
+html {
+    background: url('https://i.pinimg.com/originals/3d/c4/49/3dc449b04d9ace524a0ecd247e1fdc83.png');
+    background-size: cover;
+
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    padding: 0 40px 0 40px;
+}
+h1 {
+    color: aqua;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+h2 {
+    font-size: 60px;
+    color: blueviolet;
+    border: 4px solid burlywood;
+    background: bisque;
+}
+h3 {
+    margin: 0;
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 10px 20px;
+    font-weight: 150;
+
+}
+ h4 {
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px 20px;
+    font-weight: 100;
+    text-transform: uppercase;
+ }
+ h5 {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    font-weight: 100;
+    text-transform: uppercase;
+ }
+ a {
+    color: blue;
+    font-size: 25px;
+    font-weight: 100;
+ }
+ p {
+    color: aliceblue;
+    padding: 20px 30px;
+    font-size: 150%;
+    font-weight: 300;
+ }
